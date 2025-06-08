@@ -5,7 +5,7 @@ This project is a responsive and visually appealing blog layout created using **
 ## 🚀 Features
 
 - ✅ Responsive Design (Mobile-friendly)
-- ✅ Bootstrap 5 Grid and Utility Classes
+- ✅ Bootstrap 5 Grid and Utility Classes 
 - ✅ Gradient Navbar and Footer
 - ✅ Blog Post Cards with Images, Titles, Descriptions, and Read More buttons
 - ✅ Bootstrap Icons for Social Media
